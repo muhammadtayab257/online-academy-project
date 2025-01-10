@@ -1,0 +1,7 @@
+.slide-1{
+    background-image: url('../images/slidee-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 600px!important;
+}

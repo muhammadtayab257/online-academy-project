@@ -1,9 +1,15 @@
 body {
   background-color: antiquewhite;
+  font-family: "Roboto", serif;
 }
 
 a {
-  text-decoration: none;
+  text-decoration: none!important;
+}
+
+ul {
+  margin-bottom: 0px!important;
+  padding-left: 0px!important;
 }
 
 li {

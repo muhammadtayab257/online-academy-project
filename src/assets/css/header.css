@@ -1,0 +1,48 @@
+/* TOP BAR CSS */
+
+.topbar{
+    background-color: #1d8e5a;
+    padding: 8px;
+}
+
+.topbar .top-bar-left a,
+.topbar .top-bar-right a {
+    color: #fff;
+    margin-left: 10px;
+}
+
+.topbar .top-bar-left i,
+.topbar .top-bar-right i{
+    color: #fff;
+}
+
+/* navbar CSS */
+
+.navbar .nav-item a {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+.navbar .navbar-nav {
+    gap: 25px;
+}
+
+.navbar .btn {
+    background-color: #1d8e5a;
+    padding: 10px 30px;
+    color: #ffff;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.navbar .btn:hover {
+    background-color: black;
+}
+
+
+@media (max-width: 991px) {
+    .navbar .navbar-nav {
+        gap: 5px;
+    }
+  }
